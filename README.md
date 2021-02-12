@@ -29,6 +29,8 @@ Element of chance since the junk food appears randomly and Element of  skill as 
 <Not yet done>
 
 ## FEEDBACK TO THE PLAYER
+
 ### Feedback is shown in the following ways:-
+
 * By having a timer that increases every second
 * The energy of the player decreases after eating the junkfood
